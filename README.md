@@ -10,5 +10,5 @@
  
  😄 Pronouns: she/her
  
- 🌱 Fun fact: I love houseplants
+ 🌱 Fun fact: I am learning to draw using Affinity Pro Designer
 
