@@ -1,6 +1,8 @@
 ### Hi there 👋
+  
+ 👜 I am the Informatics Librarian at Academic Research and Consulting services department at George Smather's Libraries.
 
- 🔭 I’m working on finishing my Ph.D. in Computational Biology
+ 🔭 I have a Ph.D. in Computational Biology from University of Florida
  
  ⚡  I’m currently learning Scikit and PyTorch
  
