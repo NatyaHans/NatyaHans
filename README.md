@@ -1,6 +1,6 @@
 ### Hi there 👋
   
- 👜 I am the Informatics Librarian at Academic Research and Consulting services department at George Smather's Libraries.
+ 👜 I am the Informatics Specialist at Academic Research and Consulting services department at George Smather's Libraries.
 
  🔭 I have a Ph.D. in Computational Biology from University of Florida
  
